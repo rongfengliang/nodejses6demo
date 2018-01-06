@@ -1,10 +1,19 @@
 # es6 node run demo 
 
-##  init project
+## run with babel-register init project
+
+*  init project
+
 ```bash
 yarn
 ```
-## run demo
+*  run demo
 ```bash
 yarn run run
+```
+## run with babel-cli 
+
+* run 
+```bash
+yarn run cli
 ```
