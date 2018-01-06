@@ -1,6 +1,6 @@
 # es6 node run demo 
 
-## run with babel-register init project
+## run with babel-register
 
 *  init project
 
